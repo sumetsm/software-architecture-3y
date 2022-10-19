@@ -1,4 +1,4 @@
-package com.solid.book;
+// package com.solid.book;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.List;
 import java.util.ListIterator;
 
-public class Book {
+public class Book implements IBookPub,IBookRead{
     private String title;
     private List<String> pages;
     private ListIterator<String> iterator;
