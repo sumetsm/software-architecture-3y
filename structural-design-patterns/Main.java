@@ -1,6 +1,5 @@
 // Please DO NOT MODIFY THIS FILE
 
-// needed to import these for it to work on my pc ;w;
 // import edu.parinya.softarchdesign.structural.Anesthesiologist;
 // import edu.parinya.softarchdesign.structural.Cardiologist;
 // import edu.parinya.softarchdesign.structural.Nurse;
